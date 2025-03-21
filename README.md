@@ -1,5 +1,7 @@
 In this project, let's build an **Events** app by applying the concepts we have learned till now.
 
+Click here to see the output : https://eventpadma.ccbp.tech
+
 ### Refer to the image below:
 
 <br/>
